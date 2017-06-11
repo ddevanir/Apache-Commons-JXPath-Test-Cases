@@ -37,6 +37,7 @@ public class InfoSetUtil {
      * @param object to convert
      * @return String value
      */
+    
     public static String stringValue(Object object) {
         if (object instanceof String) {
             return (String) object;
