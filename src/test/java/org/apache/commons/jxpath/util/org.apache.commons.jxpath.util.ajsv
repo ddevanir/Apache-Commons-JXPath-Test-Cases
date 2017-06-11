@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2017-Jun-09 14:58" licenseGrade="evaluation" licenseeName="anon" licenseeOrganization="unknown" populationMethod="Wizard+PACKAGE" version="1.9.1.v20170319-1519">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="org.apache.commons.jxpath.util.ClassLoadingExampleClass" modelMemberId="org.apache.commons.jxpath.util.ClassLoadingExampleClass" project="commons-jxpath" xLocation="1124" yLocation="76"/>
+        <class className="org.apache.commons.jxpath.util.BasicTypeConverterTest" modelMemberId="org.apache.commons.jxpath.util.BasicTypeConverterTest" project="commons-jxpath" xLocation="485" yLocation="58"/>
+        <class className="org.apache.commons.jxpath.util.ClassLoaderUtilTest" modelMemberId="org.apache.commons.jxpath.util.ClassLoaderUtilTest" project="commons-jxpath" xLocation="1570" yLocation="30"/>
+        <class className="org.apache.commons.jxpath.util.ValueUtilsTest" modelMemberId="org.apache.commons.jxpath.util.ValueUtilsTest" project="commons-jxpath" xLocation="30" yLocation="134"/>
+    </diagram>
+</ajsv>
